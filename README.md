@@ -1,5 +1,7 @@
 # Terminal Scripts
 
+Terminal scripts to use as handlers for heavy use in terminal
+
 ## Installation
 
 Run the installer from this directory:
@@ -9,6 +11,10 @@ Run the installer from this directory:
 ```
 
 This adds the directory to your user `PATH`, making its scripts available from the terminal.
+
+---
+
+## Table of scripts and their purposes
 
 | Script | Purpose |
 | --- | --- |
